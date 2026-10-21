@@ -43,10 +43,10 @@ SPA full-stack para cadastro de usuários e sistema de pontos por indicação. I
 ### 🍽️ FoodFlow ERP *(em desenvolvimento)*
 Em breve.
 
-### 🏥 Fila Monitor *(case)*
-Aplicativo desktop para acompanhamento de fila de atendimento, em uso por 4 médicos.
+### 🏥 [Fila Monitor](https://github.com/Dimitri7/fila-monitor-case) *(case)*
+App desktop que monitora a fila de uma plataforma de telemedicina e avisa o médico com alerta de voz quando há paciente aguardando. **Em uso por 4 médicos.**
 **Stack:** Python · CustomTkinter
-📄 Case em breve.
+📄 [Ler o estudo de caso](https://github.com/Dimitri7/fila-monitor-case)
 
 ### 📱 App do cliente *(case)*
 📄 Case em breve.
