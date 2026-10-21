@@ -4,7 +4,7 @@
 
 📍 Fortaleza, CE — disponível para remoto
 🎓 Bacharelado em Ciência da Computação · Universidade de Fortaleza (UNIFOR) · previsão 2028
-👨‍🏫 Professor de Programação e Robótica na **SuperGeeks** (2025 – atual)
+👨‍🏫 Instrutor de Programação e Robótica na **SuperGeeks** (2025 – jul/2026)
 
 ---
 
@@ -14,17 +14,23 @@ Estágio ou posição júnior em desenvolvimento back-end, com oportunidade de a
 
 ## 🛠️ Stack & Ferramentas
 
-**Linguagens:** Java · Python · C# · JavaScript · SQL · Lua
+### ✅ Uso em projetos
 
-**Back-end:** Spring Boot · Spring Security · APIs RESTful · JWT · Maven · FastAPI · Node.js · Express
+**Linguagens:** Python · JavaScript · TypeScript · C# · Kotlin · SQL · Lua · HTML/CSS
 
-**Bancos & Persistência:** PostgreSQL · MySQL · SQLite · H2 · Flyway (versionamento de schema)
+**Back-end:** Node.js · Express · FastAPI · APIs RESTful · JWT
 
-**Testes:** JUnit 5 · Mockito · Testcontainers
+**Front-end & Interfaces:** Next.js · CustomTkinter · Android (Kotlin)
 
-**DevOps & Ferramentas:** Git · GitHub · Docker
+**Banco de dados:** SQLite
 
-**Game Dev** *(uso lecionando):* Unity (C#) · Unreal · Godot · Roblox Studio (Lua)
+**Ferramentas:** Git · GitHub
+
+**Game Dev:** Unity (C#) · Unreal · Godot · Roblox Studio (Lua)
+
+### 📚 Estudando
+
+**Java** · **Spring Boot**
 
 **Fundamentos:** Programação Orientada a Objetos · Estruturas de Dados · Padrões RESTful
 
@@ -34,19 +40,21 @@ Estágio ou posição júnior em desenvolvimento back-end, com oportunidade de a
 SPA full-stack para cadastro de usuários e sistema de pontos por indicação. Implementa autenticação segura com **bcrypt + JWT** e gerencia o fluxo de referência com link único por usuário.
 **Stack:** Node.js · Express · SQLite · JWT · bcrypt · HTML/CSS/JS
 
+### 🍽️ FoodFlow ERP *(em desenvolvimento)*
+Em breve.
+
+### 🏥 Fila Monitor *(case)*
+Aplicativo desktop para acompanhamento de fila de atendimento, em uso por 4 médicos.
+**Stack:** Python · CustomTkinter
+📄 Case em breve.
+
+### 📱 App do cliente *(case)*
+📄 Case em breve.
+
 ### 🎨 [link-trama-melhorado](https://github.com/Dimitri7/link-trama-melhorado)
 Página de links personalizada para o **Trama Estúdio Criativo**, com identidade visual própria. Deploy contínuo na Vercel.
 **Stack:** HTML5 · CSS3 · Vercel
 🔗 [link-trama-melhorado.vercel.app](https://link-trama-melhorado.vercel.app)
-
-### 🚧 Plataforma SaaS *(em desenvolvimento, repositório privado)*
-Aplicação SaaS construída do zero, com ênfase em **segurança e conformidade regulatória**. Foco em hashing de senhas, autenticação baseada em JWT, mitigação de OWASP Top 10, integração de pagamentos (Stripe/Mercado Pago) e adequação à LGPD.
-
-## 🌱 Estudando agora
-
-- Aprofundamento em **Spring Boot** + **Spring Security** + testes com **Testcontainers**
-- Arquitetura de back-end seguro e escalável
-- Boas práticas de DevOps e Docker
 
 ## 🌎 Idiomas
 
@@ -54,9 +62,8 @@ Aplicação SaaS construída do zero, com ênfase em **segurança e conformidade
 
 ## 📫 Contato
 
-- 💼 **LinkedIn:** [in/dimitrialbuquerque](https://www.linkedin.com/in/dimitri-albuquerque-66b32b278/)
+- 💼 **LinkedIn:** [in/dimitri-albuquerque-66b32b278](https://www.linkedin.com/in/dimitri-albuquerque-66b32b278/)
 - 📧 **Email:** dimitri.g.a@gmail.com
-- 📱 **Telefone:** (85) 99778-1966
 
 ---
 
