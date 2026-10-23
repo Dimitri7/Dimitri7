@@ -24,6 +24,8 @@ Estágio ou posição júnior em desenvolvimento back-end, com oportunidade de a
 
 **Banco de dados:** SQLite
 
+**Testes:** Jest
+
 **Ferramentas:** Git · GitHub
 
 **Game Dev:** Unity (C#) · Unreal · Godot · Roblox Studio (Lua)
