@@ -38,7 +38,8 @@ Estágio ou posição júnior em desenvolvimento back-end, com oportunidade de a
 
 ### 🔗 [sistema-de-indicacao](https://github.com/Dimitri7/sistema-de-indicacao)
 SPA full-stack para cadastro de usuários e sistema de pontos por indicação. Implementa autenticação segura com **bcrypt + JWT** e gerencia o fluxo de referência com link único por usuário.
-**Stack:** Node.js · Express · SQLite · JWT · bcrypt · HTML/CSS/JS
+**Stack:** Node.js · Express · SQLite · JWT · bcrypt · HTML/CSS/JS · Jest + Supertest (28 testes)
+🔗 [sistema-de-indicacao-i388.onrender.com](https://sistema-de-indicacao-i388.onrender.com)
 
 ### 🍽️ FoodFlow ERP *(em desenvolvimento)*
 Em breve.
