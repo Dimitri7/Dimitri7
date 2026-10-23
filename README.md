@@ -48,8 +48,10 @@ App desktop que monitora a fila de uma plataforma de telemedicina e avisa o méd
 **Stack:** Python · CustomTkinter
 📄 [Ler o estudo de caso](https://github.com/Dimitri7/fila-monitor-case)
 
-### 📱 App do cliente *(case)*
-📄 Case em breve.
+### 🧾 [Robô de Auditoria Fiscal](https://github.com/Dimitri7/robo-auditoria-fiscal-case) *(case)*
+Robô sob encomenda para um cliente contábil: lê a planilha de entradas fiscais, consulta cada CNPJ de fornecedor em dados abertos da Receita Federal (Simples Nacional, situação cadastral) e gera o relatório de auditoria em Excel. 21 testes automatizados.
+**Stack:** Python · pandas · requests · CustomTkinter
+📄 [Ler o estudo de caso](https://github.com/Dimitri7/robo-auditoria-fiscal-case)
 
 ### 🎨 [link-trama-melhorado](https://github.com/Dimitri7/link-trama-melhorado)
 Página de links personalizada para o **Trama Estúdio Criativo**, com identidade visual própria. Deploy contínuo na Vercel.
