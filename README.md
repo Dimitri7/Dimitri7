@@ -61,6 +61,16 @@ Página de links personalizada para o **Trama Estúdio Criativo**, com identidad
 **Stack:** HTML5 · CSS3 · Vercel
 🔗 [link-trama-melhorado.vercel.app](https://link-trama-melhorado.vercel.app)
 
+## 🎮 Game Dev
+
+| Jogo | Destaque | Stack | |
+|---|---|---|---|
+| ⚽ [Copa do Mundo 5v5](https://github.com/Dimitri7/copa-do-mundo-5v5) | mata-mata com IA por zonas em JavaScript | GDevelop · JS | [▶ jogar](https://dimitri7.github.io/copa-do-mundo-5v5/) |
+| 🟪 [Hex Fall](https://github.com/Dimitri7/hex-fall-multiplayer) | multiplayer em LAN com servidor autoritativo | Unity · C# · Netcode | [⬇ baixar](https://github.com/Dimitri7/hex-fall-multiplayer/releases/latest) |
+| 🎵 [Math Hero](https://github.com/Dimitri7/math-hero) | jogo de ritmo educativo para treinar a tabuada | Godot · GDScript | [▶ jogar](https://dimitri7.github.io/math-hero/) |
+| 👾 [Space Invaders](https://github.com/Dimitri7/space-invaders-godot) | releitura com nave bônus e chefão | Godot · GDScript | [▶ jogar](https://dimitri7.github.io/space-invaders-godot/) |
+| 🍄 [Super Mario Dimitri](https://github.com/Dimitri7/super-mario-dimitri) | plataforma 2D: física de pulo e inimigos | Godot · GDScript | [▶ jogar](https://dimitri7.github.io/super-mario-dimitri/) |
+
 ## 🌎 Idiomas
 
 🇧🇷 Português (nativo) · 🇺🇸 Inglês (avançado — leitura, escrita e conversação)
