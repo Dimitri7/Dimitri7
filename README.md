@@ -28,7 +28,7 @@ Estágio ou posição júnior em desenvolvimento back-end, com oportunidade de a
 
 **Ferramentas:** Git · GitHub
 
-**Game Dev:** Unity (C#) · Unreal · Godot · Roblox Studio (Lua)
+**Game Dev:** Unity (C#) · Godot (GDScript) · GDevelop · Unreal · Roblox Studio (Lua)
 
 ### 📚 Estudando
 
