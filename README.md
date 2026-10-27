@@ -56,6 +56,10 @@ Robô sob encomenda para um cliente contábil: lê a planilha de entradas fiscai
 **Stack:** Python · pandas · requests · CustomTkinter
 📄 [Ler o estudo de caso](https://github.com/Dimitri7/robo-auditoria-fiscal-case)
 
+### 📱 [Conecta Unifor](https://github.com/Dimitri7/conecta-unifor)
+App **Android nativo em Kotlin** (projeto em grupo da UNIFOR): reserva de espaços de estudo, catálogo e aluguel de livros, feed de postagens e painel de administração, com **Firebase Firestore**.
+**Stack:** Kotlin · Android SDK · Material 3 · Firebase Firestore
+
 ### 🎨 [link-trama-melhorado](https://github.com/Dimitri7/link-trama-melhorado)
 Página de links personalizada para o **Trama Estúdio Criativo**, com identidade visual própria. Deploy contínuo na Vercel.
 **Stack:** HTML5 · CSS3 · Vercel
